@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Calculator\YFDreamChaser\YFDreamChaser\YFDreamChaser\obj\Debug\YFDreamChaser.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Calculator\YFDreamChaser\YFDreamChaser\YFDreamChaser\obj\Debug\YFDreamChaser.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Calculator\YFDreamChaser\YFDreamChaser\YFDreamChaser\bin\Debug\YFDreamChaser.exe.config
+C:\Users\Administrator\Desktop\Calculator\YFDreamChaser\YFDreamChaser\YFDreamChaser\bin\Debug\YFDreamChaser.exe
+C:\Users\Administrator\Desktop\Calculator\YFDreamChaser\YFDreamChaser\YFDreamChaser\bin\Debug\YFDreamChaser.pdb
+C:\Users\Administrator\Desktop\Calculator\YFDreamChaser\YFDreamChaser\YFDreamChaser\obj\Debug\YFDreamChaser.exe
+C:\Users\Administrator\Desktop\Calculator\YFDreamChaser\YFDreamChaser\YFDreamChaser\obj\Debug\YFDreamChaser.pdb
